@@ -3,7 +3,9 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,workos.com
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,datadoghq
 DOMAIN-KEYWORD,openai
