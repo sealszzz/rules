@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,workos.com
 DOMAIN-KEYWORD,chatgpt
-DOMAIN-KEYWORD,datadoghq
+DOMAIN-KEYWORD,datadog
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaicom
 DOMAIN-KEYWORD,openaiapi
@@ -27,7 +27,6 @@ DOMAIN,api.revenuecat.com
 DOMAIN,api.statsig.com
 DOMAIN,events.statsigapi.net
 DOMAIN,o33249.ingest.sentry.io
-DOMAIN-KEYWORD,datadoghq
 # 客服 / 通知
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
