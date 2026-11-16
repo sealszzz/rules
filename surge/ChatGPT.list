@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,turn.livekit.cloud
 # 安全 / 验证码
 DOMAIN,client-api.arkoselabs.com
 DOMAIN,openai-api.arkoselabs.com
-DOMAIN,challenges.cloudflare.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
 # 监控 / 埋点
 DOMAIN,api.mixpanel.com
 DOMAIN,api.revenuecat.com
